@@ -14,4 +14,4 @@ Site feito no padrão MVC no AspNet Core.
 
 ## Paleta de Cores
 
-![IMG4](Paleta_PetVet.png)
+![IMG4](PaletaPetVet.png)
